@@ -1,18 +1,8 @@
 {
-  "name": "angular",
-  "version": "0.0.0",
-  "license": "MIT",
-  "scripts": {
-
-  },
-  "private": true,
+  "name": "static",
+  "version": "1.0.0",
+  "main": "index.html",
   "dependencies": {
-
-  },
-  "devDependencies": {
-
-  },
-  "keywords": [
-  ],
-  "description": ""
+    "algoliasearch": "3.32.0"
+  }
 }
